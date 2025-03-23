@@ -1,10 +1,11 @@
-name: "Martin Saveski"
-title: "Assistant Professor, University of Washington"
-email: "msaveski [AT] uw.edu"
-profile_pic: "/assets/profile-pics/SU_small.jpg"
-bsky: "https://bsky.app/profile/msaveski.bsky.social"
-twitter: "https://twitter.com/msaveski"
-linkedin: "https://www.linkedin.com/in/msaveski"
-github: "https://github.com/msaveski"
-google_scholar: "https://scholar.google.com/citations?user=M3D870YAAAAJ&hl=en"
-google_analystics_tracking_id: 'UA-46778883-1'
+name: "Talha Meraj"
+title: "Ph.D Scholar, Atlantic Technology University, Sligo, Ireland"
+email: "talha.meraj [AT] atu.ie"
+profile_pic: "/assets/profile-pics/talha-profile-pic.jpeg"
+# bsky: "https://bsky.app/profile/msaveski.bsky.social"
+twitter: "https://x.com/Talha_056"
+linkedin: "https://www.linkedin.com/in/talha-611a64133/"
+github: "https://github.com/TalhaMeraj"
+google_scholar: "https://scholar.google.com/citations?hl=en&user=UEN0TqUAAAAJ&view_op=list_works&sortby=pubdate"
+
+# google_analystics_tracking_id: 'UA-46778883-1'
