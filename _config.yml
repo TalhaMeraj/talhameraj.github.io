@@ -3,7 +3,7 @@ description: Personal Website of Talha Meraj
 baseurl: ""  # Remove "/talhameraj" unless your site is inside a subfolder
 url: "https://talhameraj.github.io"  # Update with your GitHub Pages URL
 
-source: .
+source: docs
 destination: ./_site
 includes: ./_includes
 
