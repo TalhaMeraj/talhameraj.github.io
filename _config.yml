@@ -1,8 +1,21 @@
+title: Talha Meraj's Website
+description: Personal Website of Talha Meraj
+baseurl: ""  # Remove "/talhameraj" unless your site is inside a subfolder
+url: "https://talhameraj.github.io"  # Update with your GitHub Pages URL
+
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /talhameraj
 
+# Collections (if needed)
 collections:
   projects:
     output: true
+
+# 📌 Add a Jekyll Theme (Choose One)
+theme: minima  # OR choose another built-in Jekyll theme
+
+# If using a remote theme:
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+#   - jekyll-remote-theme
