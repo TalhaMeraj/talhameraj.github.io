@@ -4,7 +4,7 @@ baseurl: ""  # Remove "/talhameraj" unless your site is inside a subfolder
 url: "https://talhameraj.github.io"  # Update with your GitHub Pages URL
 
 source: docs
-destination: ./_site
+destination: docs/_site
 includes: ./_includes
 
 
